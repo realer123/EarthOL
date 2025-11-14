@@ -1,3 +1,6 @@
+pip install customtkinker, pip install tkcalendar
+
+
 The UI is up and working perfectly, I divided each tab into it's own class, the main function simply intializes them and controls which one is visible. 
 There are a few things need to be fixed:
   1. When deleting task right now, it deletes all the task of the same name, so we need to implement a mechanism that disallows repeating names. (I can do this)
