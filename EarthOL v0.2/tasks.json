@@ -1,0 +1,11 @@
+[
+    {
+        "name": "1",
+        "scheduled_time": "No time",
+        "category": "Self-Study-STEM",
+        "duration": 30,
+        "note": "",
+        "completed": true,
+        "exp": 0
+    }
+]
