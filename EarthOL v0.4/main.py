@@ -16,7 +16,7 @@ import os
 import json
 
 
-#testing github
+#testing GitHub
 
 # ----------------- EXP SYSTEM ----------------- #
 class SegmentedExpBar(ctk.CTkFrame):
